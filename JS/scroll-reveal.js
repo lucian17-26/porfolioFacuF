@@ -24,3 +24,8 @@ sr.reveal('.scroll-3', {
     origin: 'left',
     distance: '-300px'
 });
+sr.reveal('.scroll-4', {
+    duration: 13000,
+    origin: 'left',
+    distance: '-300px'
+});
