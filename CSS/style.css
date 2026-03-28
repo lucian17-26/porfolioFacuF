@@ -20,7 +20,7 @@ header{
 
 
 h1{
-    font-size: 4.5rem;
+    font-size: 4rem;
     /* font-family: 'Raleway', sans-serif; */
     font-family: 'Oswald', sans-serif;
 
@@ -142,9 +142,11 @@ hr{
 
 }
 #sobreMi{
+    scroll-snap-margin-top: 130px;
     scroll-margin-top: 130px;
 }
 #experiencia{
+    scroll-snap-margin-top: 130px;
     scroll-margin-top: 130px;
 }
 
